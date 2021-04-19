@@ -1,3 +1,7 @@
+#Codecademy Code Along Project.
+
+In this project I created an app with React which calls the yelp API to find restraunts in your local area.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
