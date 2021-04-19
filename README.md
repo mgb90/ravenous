@@ -1,4 +1,4 @@
-#Codecademy Code Along Project.
+# Codecademy Code Along Project.
 
 In this project I created an app with React which calls the yelp API to find restraunts in your local area.
 
